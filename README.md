@@ -1,6 +1,6 @@
 # UltraShop - Shopping Web App
 
-![UltraShop](link-to-image.png)
+
 
 UltraShop is a shopping web application built using React, Redux, Axios, and Redux Thunk. It allows users to browse and view a wide range of products. The app leverages the Redux state management to efficiently handle the product data fetched from an external API.
 
